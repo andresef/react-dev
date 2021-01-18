@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)
+The code in this repo follows the exercises in the Udemy Training, from authors Andrei Neagoie and Yihua Zhang
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
